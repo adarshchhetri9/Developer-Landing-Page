@@ -1,14 +1,14 @@
-# Web-Design-Landing-Page
+# Developer-Landing-Page
 
-Homepage of Web-Design Webpage
+Homepage of Developer-Landing Webpage
 
 ### Things I Learnt
-- Backgreound Position
+- Css Positions 
 - Advance positioning
 - Responsive Css
 
 ## Deployed link
-- [DEPLOYED WEBPAGE](https://wweb-design.netlify.app/)
+- [DEPLOYED WEBPAGE](https://ddeveloper.netlify.app/)
 
 ## Screenshot
 ![deployerlink](./Project%209%20Output.png)
